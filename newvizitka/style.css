@@ -1,0 +1,76 @@
+#wrapper {
+	width: 100%;
+	max-width: 700px;
+	margin: auto;
+	padding: 2%;
+}
+header  {
+	background-color: #f2f2f2;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.SLM {
+	font: 400 40px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+	padding-left: 5%;
+	padding-right: 5%;
+	
+}
+.extract{
+    color: rgba(0,0,0,0.54);
+    font: 400 20px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+#main {
+	padding-left: 5%;
+	padding-right: 5%;
+	font: 400 14px/24px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+}
+div {
+    display: block;
+	margin-bottom: 1%;
+}
+.text {
+	font: 400 20px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+	padding-top: 60px;
+}
+.text1 {
+	  font-weight: bold;
+}
+a{
+	color: #458af4;
+}
+footer {
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 40px;
+	border-top: 1px solid;
+	font: 400 14px/24px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+
+}
+footer a {
+	color: #15c;;
+}
+ ul {
+    padding: 0; 
+    margin-left: 0; 
+	padding-top: 40px;
+   }
+li {
+	margin-left: 11px;
+}   
+ section {
+	 padding-bottom: 40px;
+ }
+ .offer {
+	 padding-top: 40px;
+ }
+ #req {
+	 text-align: center;
+	 padding-top: 25px;
+	 font-weight: 600;
+	 font-size: 20px;
+ }
+ .marg {
+	 margin-top: 40px;
+ }
